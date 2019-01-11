@@ -20,6 +20,7 @@ import java.util.List;
 import cc.fussen.cache.Cache;
 
 //https://blog.csdn.net/fussenyu/article/details/78754673
+//原文地址:https://github.com/FussenYu/AppCache
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
     private Button save;
